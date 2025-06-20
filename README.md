@@ -138,14 +138,9 @@ void loop() {
 - 🔭 I’m currently working on IoT and automation projects.
 - 🌱 I’m learning cloud integrations with microcontrollers.
 - 💬 Ask me about: IoT, ESP32, Embedded Systems.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jaskirat-singh-009348178) or other socials above!
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com) or other socials above!
 
 ---
 
-## 📄 License
-
-This project is open-source. Please check with the repository owner for licensing details.
-
----
 
 *Feel free to open an issue or PR for improvements or questions!*
