@@ -120,16 +120,20 @@ void loop() {
 
 ---
 
+## 📊 Demo
+
+- **Live Simulation:**  
+  [Wokwi Online Project Demo](https://wokwi.com/projects/434252500636964865)
+
+- **Flowchart:**  
+  ![Flowchart](flood_monitoring_flowchart.png) <!-- Make sure to add your flowchart image to the repo as flowchart.png or change the filename accordingly -->
+
+---
+
 ## 🎯 Customization
 
 - Adjust `floodThreshold` for your desired safe water level.
 - Add more outputs (buzzer, GSM, etc.) as needed.
-
----
-
-## 📊 Demo
-
-![Project Demo](https://i.imgur.com/floodmonitoring.gif) <!-- Replace with your own demo link if available -->
 
 ---
 
@@ -141,6 +145,3 @@ void loop() {
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com) or other socials above!
 
 ---
-
-
-*Feel free to open an issue or PR for improvements or questions!*
