@@ -2,10 +2,10 @@
 
 <h3 title="hehehe"> Hey 👋, I'm BHARATH!</h3>
 
-<a href="[[https://www.linkedin.com/in/jaskirat-singh-009348178](https://www.linkedin.com/in/bharath-s-649506323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/bharath-s-649506323/)">
+<a href="https://www.linkedin.com/in/bharath-s-649506323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/bharath-s-649506323/">
   <img align="left" alt="Bharath's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
-<a href="[https://www.instagram.com/](https://www.instagram.com/__bharath_.s/)">
+<a href="https://www.instagram.com/__bharath_.s/">
   <img align="left" alt="Bharath's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 <a href="https://www.facebook.com/">
